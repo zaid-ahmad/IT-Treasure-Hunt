@@ -24,7 +24,7 @@ MAKE SURE YOU READ README file before opening the application!
 
 • The py file will be in the `1` folder. Keep the application running while you figure out the passwords.
 
-• Add 10 folders with some sort of puzzle in each one of them, and set the passwords as per your choice by editing the py file.
+• Edit the 10 folders with some sort of puzzle in each one of them, and set the passwords as per your choice by editing the py file.
 
 • Don't forget to hide all the folders except the first one.
 
