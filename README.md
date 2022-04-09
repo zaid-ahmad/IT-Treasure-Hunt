@@ -1,7 +1,30 @@
 # IT TREASURE HUNT
-## An initiative to build something intriguing for school students
 
-IT Treasure Hunt is a command prompt that contains 10 levels with each level more difficult than the previous one. Students will have to look for clues and put their knowledge to test before the time runs out. 
+## **→ What is it? 😵**
+
+A game-like competition that will put one’s computer abilities to the test The players will be entrusted with completing ten stages, each of which will contain a code buried somewhere on your PC and a hint as to where to look for it. Once the person has found the code for a level, he/she will be able to move onto the next level. As the game progresses, the levels will become more difficult and the codes will become more cryptic.  
 
 
-*Made by Zaid Ahmad and Himanshu Sardana*
+## **→ How to play? 🎮**
+
+By default, a folder named '1' will be provided to you within which you will find a video/image/file or, anything really. Using what we have provided, you have to hunt for the password for level 2. A total of 10 levels are there. With each correct passwords entered, a new file will be available to find the cluees for subsequent levels.
+MAKE SURE YOU READ README file before opening the application!
+
+
+## **→ Setup 💻**
+
+• Please make sure that `rich module` is installed on your system. 
+
+• By default, only 1 folder should be visible.
+
+• `View hidden items` should be unchecked in the file explorer (yes, other files are hidden. But please don't ruin the game for yourself)
+
+
+## **→ NOTE 📌**
+
+The exe file will be in the `1` folder. Keep the application running while you figure out the passwords.
+
+
+<hr>
+
+*Made by Zaid Ahmad and Himanshu Sardana*  🌟🌟🌟 HEY, help this project become better 😃 🌟🌟🌟
