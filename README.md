@@ -2,7 +2,7 @@
 
 ## **→ What is it? 😵**
 
-A game-like competition that will put one’s computer abilities to the test The players will be entrusted with completing ten stages, each of which will contain a code buried somewhere on your PC and a hint as to where to look for it. Once the person has found the code for a level, he/she will be able to move onto the next level. As the game progresses, the levels will become more difficult and the codes will become more cryptic.  
+A game-like competition that will put one’s computer abilities to the test. The players will be entrusted with completing ten stages, each of which will contain a code buried somewhere on your PC and a hint as to where to look for it. Once the person has found the code for a level, he/she will be able to move onto the next level. As the game progresses, the levels will become more difficult and the codes will become more cryptic.  
 
 
 ## **→ How to play? 🎮**
