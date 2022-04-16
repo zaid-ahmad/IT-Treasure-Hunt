@@ -30,4 +30,4 @@ MAKE SURE YOU READ README file before opening the application!
 
 <hr>
 
-*Made by Zaid Ahmad and Himanshu Sardana*  🌟🌟🌟 HEY, help this project become better 😃 🌟🌟🌟
+*Made by Zaid Ahmad*  🌟🌟🌟 HEY, help this project become better 😃 🌟🌟🌟
