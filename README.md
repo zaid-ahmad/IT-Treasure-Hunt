@@ -13,6 +13,8 @@ MAKE SURE YOU READ README file before opening the application!
 
 ## **→ Setup 💻**
 
+• NOTE: the .py file is in the '1' directory. 
+
 • Please make sure that `rich module` is installed on your system. 
 
 • By default, only 1 folder should be visible.
